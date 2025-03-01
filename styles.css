@@ -1,0 +1,53 @@
+* {
+    background-color: lightgrey;
+    font-family: sans-serif;
+    color: black;
+    justify-self: center;
+    justify-content: center;
+}
+
+a {
+    color:black;
+    
+}
+
+ol {
+    justify-self: left;
+}
+
+ul {
+    justify-self: left;
+}
+
+li {
+    justify-self: left;
+}
+
+.mainimg {
+    justify-content: center;
+}
+
+h3 {
+    justify-self: left;
+    font-weight: bolder;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+h1 {
+    font-weight: bolder;
+}
+
+.titlebox {
+    border: 5px solid yellow;
+    padding: 10px;
+    margin: 8px;
+}
+
+.recipelist {
+    border: 5px solid yellow;
+    padding: 10px;
+    margin: 8px;
+}
